@@ -1,0 +1,18 @@
+---
+title: "clustering-raviraj"
+author: "Raviraj"
+date: "28 July 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+rm(list = ls(all=T))
+```
+
+## Load the data set
+
+```{r}
+
+```
+
